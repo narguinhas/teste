@@ -3,7 +3,7 @@ body {
 }
  
 .hero {
-    background: linear-gradient(to left, #ffe600, #000000);
+    background: linear-gradient(to left, #1500ff, #bb03ff);
     color: white;
     padding: 80px 0;
 }
@@ -40,7 +40,10 @@ body {
     padding-top: 70px;
 }
 
-.program{
+.imgtx{
+    display: flex;
+    align-items: center
+    
     
 
 }

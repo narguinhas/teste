@@ -40,10 +40,7 @@ body {
     padding-top: 70px;
 }
 
-.imgtx{
+.text{
     display: flex;
-    align-items: center
-    
-    
-
+    align-items: center;
 }

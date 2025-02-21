@@ -40,9 +40,20 @@ body {
     padding-top: 70px;
 }
 
-.text{
-    align-items: center;
-    display: flex;
-    
+.text img{
+
+    max-width:500px;
+    max-height:450px;
+    width: auto;
+    height: auto;
+       
 }
+
+.text{
+    
+    display: flex;
+    text-align: center;
+}
+ 
+
 

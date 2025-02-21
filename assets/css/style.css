@@ -41,6 +41,8 @@ body {
 }
 
 .text{
-    display: flex;
     align-items: center;
+    display: flex;
+    
 }
+
